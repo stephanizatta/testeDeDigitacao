@@ -1,1 +1,2 @@
 # testeDeDigitacao
+JavaScript, HTML, CSS
