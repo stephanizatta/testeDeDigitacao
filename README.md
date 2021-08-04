@@ -1,5 +1,5 @@
 # testeDeDigitacao
 
 Teste de velocidade de digitação em JS
-<hr>
+<br>
 JavaScript, HTML, CSS
